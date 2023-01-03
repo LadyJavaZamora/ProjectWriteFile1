@@ -1,0 +1,2 @@
+module ProjectWriteFile1 {
+}
